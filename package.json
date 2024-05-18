@@ -1,0 +1,19 @@
+{
+  "name": "malikg_01-table-printing-cli",
+  "version": "1.0.2",
+  "description": "this table printing CLI project, user can enter any number table will be printed to that number ",
+  "main": "table.js",
+  "type": "module",
+  "bin": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghulam Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
